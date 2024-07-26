@@ -1,0 +1,9 @@
+**Database Name: hostelmsphp**
+
+
+
+
+**Admin Login Details**
+
+Username: admin
+Password: 123
